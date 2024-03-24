@@ -1,0 +1,28 @@
+.banner{
+    padding: 177px 344px;
+    background-image: url(/resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-left: 300px;
+    border-radius: 16px;
+    
+}
+
+
+/* common shard style */
+body{
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+}
+
+.banner-greeting{
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.banner-title{
+    font-size: 72px;
+    color: rgb(255, 255, 255);
+}
